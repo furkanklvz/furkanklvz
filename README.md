@@ -1,4 +1,4 @@
-## Hi there I'm Furkan👋
+## Hi there, I'm Furkan👋
 
 - 🔭 I’m currently working on modern Android applications.
 - 🌱 I’m currently learning Jetpack Compose and KMM libraries.
