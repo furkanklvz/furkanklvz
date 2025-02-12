@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning Jetpack Compose and KMM libraries.
 - 📫 How to reach me: furkanklvz0@gmail.com
 
-[![furkanklvz's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkanklvz)](https://github.com/furkanklvz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkanklvz&layout=donut)](https://github.com/furkanklvz/github-readme-stats)
